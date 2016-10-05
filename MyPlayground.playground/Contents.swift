@@ -28,3 +28,9 @@ let width = 94
 
 // Il faut montrer qu'on veut convertir "width" en String explicitement
 let widthLabel = label + String(width)
+
+// Selon le guide d'Apple sur Swift, avec \(variable), on peut mettre une valeur dans un String
+let apples = 3
+let oranges = 5
+let appleSummary = "I have \(apples) apples."
+let fruitSummary = "I have \(apples + oranges) pieces of fruit."
