@@ -1,3 +1,3 @@
 # Learning-Swift-iOS
 
-Repository where I practice to learning stuffs for iOS with Swift.
+Repository where I practice to learn stuffs for iOS with Swift.
