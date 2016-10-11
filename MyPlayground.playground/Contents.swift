@@ -37,3 +37,8 @@ let fruitSummary = "I have \(apples + oranges) pieces of fruit."
 
 // L'addition de deux strings
 let additionalString = "1" + "1"
+
+// Print a string
+let x = 2 * 5
+let event = "birthday"
+print("Success: binary \(event) reached: \(x)")
