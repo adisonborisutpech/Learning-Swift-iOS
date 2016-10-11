@@ -34,3 +34,6 @@ let apples = 3
 let oranges = 5
 let appleSummary = "I have \(apples) apples."
 let fruitSummary = "I have \(apples + oranges) pieces of fruit."
+
+// L'addition de deux strings
+let additionalString = "1" + "1"
